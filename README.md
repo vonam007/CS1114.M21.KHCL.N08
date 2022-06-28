@@ -1,4 +1,4 @@
-# CS1114.M21.KHCL.N0x
+# CS1114.M21.KHCL.N08
 Máy học - Machine learning
 Member 1: Võ Nguyễn Hoài Nam - StudentID: 20520645  
 I'm from Tien Giang Province
