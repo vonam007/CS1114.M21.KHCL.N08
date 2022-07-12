@@ -6,7 +6,6 @@
 <p>Member 2: Nguyễn Lâm Phước Sang - StudentID: 17520975</p>  
 <p>I'm from Khanh Hoa Province</p>
 
-<p>Member 3: Võ Nguyễn Hoài Nam - StudentID: 20520645</p>  
+<p>Member 3: Cao Trần Hoàng - StudentID: 18521699</p>  
 <p>I'm from Tien Giang Province</p>
-![image](https://user-images.githubusercontent.com/81870096/178491750-c322933d-d3b9-457c-bf74-5762a2b3369a.png)
 <img src="https://user-images.githubusercontent.com/81870096/178491750-c322933d-d3b9-457c-bf74-5762a2b3369a.png" width="200"/>
