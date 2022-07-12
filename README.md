@@ -5,6 +5,6 @@
 <img src="https://user-images.githubusercontent.com/81870096/162102575-f9d58d59-118c-4251-97f4-12ba4064f04b.jpg" data-canonical-src="https://user-images.githubusercontent.com/81870096/162102575-f9d58d59-118c-4251-97f4-12ba4064f04b.jpg" width="200"/>
 <p>Member 2: Nguyễn Lâm Phước Sang - StudentID: 17520975</p>  
 <p>I'm from Khanh Hoa Province</p>
-
+<img src="https://user-images.githubusercontent.com/81870096/178493847-f2d32dc7-1063-4719-82d2-00209efa8346.png" width="200"/>
 <p>Member 3: Cao Trần Hoàng - StudentID: 18521699</p>  
 <img src="https://user-images.githubusercontent.com/81870096/178491750-c322933d-d3b9-457c-bf74-5762a2b3369a.png" width="200"/>
